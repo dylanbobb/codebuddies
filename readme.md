@@ -2,7 +2,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-101-orange.svg?style=flat-square)](#contributors)
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
 
-# CodeBuddies Hangouts Platform v2.0 - from scratch
+# CodeBuddies Hangouts Platform v2.0 - from scratchh
 
 
 [![slack in](http://codebuddiesmeet.herokuapp.com/badge.svg?style=flat-square)](http://codebuddiesmeet.herokuapp.com/)
